@@ -30,3 +30,14 @@ This repository contains some useful links that helped me to understand  the ide
 
 #### Concurrency
 - [GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) - In this Youtube video, Kavya Joshi explains how the Go Scheduler works in details.
+
+### Other links
+
+- [Github - Awsome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+## Framworks
+
+#### Dependency Injection
+- [Wire (Google)](https://github.com/google/wire) - Wire is dependency injection lib based on code generation
+- [Fx by Uber]() An application framework for Go made by Uber engineers to make dependency injection (dynamically)
+
