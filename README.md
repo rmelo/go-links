@@ -48,3 +48,6 @@ This repository contains some useful links that helped me to understand the idea
 - [Wire](https://github.com/google/wire) - Wire is dependency injection lib based on code generation. Made by **Google**
 - [Fx]() An application framework for Go to make dependency injection easy. Made by **Uber**
 
+#### API
+- [Gorilla Mux](https://github.com/gorilla/mux) - Famous framework to build APIs
+
