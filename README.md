@@ -5,7 +5,7 @@ This repository contains some useful links that helped me to understand the idea
 ## Summary
 
 1. [Links](#articles)
-2. [Libs & Frameworks](##libs-&-frameworks)
+2. [Libs & Frameworks](#libs-&-frameworks)
 
 
 
