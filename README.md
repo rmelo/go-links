@@ -2,7 +2,9 @@
 
 This repository contains some useful links that helped me to understand  the ideas behind the Go language, and as long I read more article and get good links, I will put here as well. I hope it can help you too, so, enjoy it!
 
-## Basic Links
+
+## Getting Started
+
 
 - [https://golang.org](https://golang.org) - The official download page
 
@@ -12,6 +14,7 @@ This repository contains some useful links that helped me to understand  the ide
 
 
 ## Articles
+
 
 - [Problemas Programando em Golang](https://crg.eti.br/post/problemas-programando-em-golang) - Cesar Gimenes tell us about the common mistakes he made during 6 years of programming in Go **(Portuguse)**
 
