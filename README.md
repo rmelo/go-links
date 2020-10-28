@@ -39,5 +39,5 @@ This repository contains some useful links that helped me to understand  the ide
 
 #### Dependency Injection
 - [Wire (Google)](https://github.com/google/wire) - Wire is dependency injection lib based on code generation
-- [Fx by Uber]() An application framework for Go made by Uber engineers to make dependency injection (dynamically)
+- [Fx (Uber)]() An application framework for Go made by Uber engineers to make dependency injection (dynamically)
 
