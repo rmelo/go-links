@@ -4,12 +4,12 @@ This repository contains some useful links that helped me to understand the idea
 
 ## You will find here
 
-1. [Links]($links)
-2. [Frameworks & Libs]($libs)
+1. [Links](#links)
+2. [Frameworks & Libs](#libs)
 
 
 
-## Getting Started ($links)
+## Getting Started (#links)
 
 
 - [https://golang.org](https://golang.org) - The official download page
@@ -41,7 +41,7 @@ This repository contains some useful links that helped me to understand the idea
 
 - [Github - Awsome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
-## Framworks & Libs ($libs)
+## Framworks & Libs (#libs)
 
 #### Dependency Injection
 - [Wire](https://github.com/google/wire) - Wire is dependency injection lib based on code generation. Made by **Google**
