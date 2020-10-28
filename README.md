@@ -6,11 +6,11 @@ This repository contains some useful Go links
 
 ## Basic Links
 
-[https://golang.org/](https://golang.org/) - The official download page
+[https://golang.org](https://golang.org) - The official download page
 
-[https://play.golang.org/](https://play.golang.org/) - A nice playground where you can quickly test your codes and pocs
+[https://play.golang.org](https://play.golang.org) - A nice playground where you can quickly test your codes and pocs
 
-[Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
+[Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests)
 It's a * amazing * site where you can learn and explore Golang by writing tests using a TDD(Test Driven Development) approach
 
 
