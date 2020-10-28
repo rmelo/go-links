@@ -16,11 +16,7 @@ This repository contains some useful Go links
 ## Articles
 
 #### Architecture / Design
-[How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM&ab_channel=GopherAcademy)
-
-Elena Morozova tells the story of how Go went from a few enthusiastic Gophers to the most popular language for microservices at Uber. Learn where they failed, and how that led they to solutions that they think are pretty darn neat!
+- [How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM&ab_channel=GopherAcademy) - Elena Morozova tells the story of how Go went from a few enthusiastic Gophers to the most popular language for microservices at Uber. Learn where they failed, and how that led they to solutions that they think are pretty darn neat!
 
 #### Concurrency
-[GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k)
-
-In this Youtube video, Kavya Joshi explains how the Go Scheduler works in details.
+- [GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) - In this Youtube video, Kavya Joshi explains how the Go Scheduler works in details.
