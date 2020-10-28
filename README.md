@@ -1,9 +1,15 @@
 ![Go links by rmelo logo](https://github.com/rmelo/go-links/blob/main/go-links-by-rmelo.jpg "Go links by rmelo")
 
-This repository contains some useful links that helped me to understand  the ideas behind the Go language, and as long I read more article and get good links, I will put here as well. I hope it can help you too, so, enjoy it!
+This repository contains some useful links that helped me to understand the ideas behind the Go language, and as long I read more article and get good links, I will put here as well. I hope it can help you too, so, enjoy it!
+
+## You will find here
+
+1. [Links]($links)
+2. [Frameworks & Libs]($libs)
 
 
-## Getting Started
+
+## Getting Started ($links)
 
 
 - [https://golang.org](https://golang.org) - The official download page
@@ -35,7 +41,7 @@ This repository contains some useful links that helped me to understand  the ide
 
 - [Github - Awsome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
-## Framworks
+## Framworks & Libs ($libs)
 
 #### Dependency Injection
 - [Wire](https://github.com/google/wire) - Wire is dependency injection lib based on code generation. Made by **Google**
