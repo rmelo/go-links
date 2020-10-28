@@ -33,7 +33,7 @@ This repository contains some useful links that helped me to understand the idea
 #### Concurrency
 - [GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) - In this Youtube video, Kavya Joshi explains how the Go Scheduler works in details.
 
-- [Golang UK Conference - Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA) - In this Youtube video, Arne Claus demostrates the Golang toolsetto work with concurrency and the concurrency patterns.
+- [Golang UK Conference - Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA) - In this video, Arne Claus demonstrates the Go's concurrency toolset and how you can enjoy it by using the concurrency patterns.
 
 #### Architecture / Design
 - [How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM&ab_channel=GopherAcademy) - Elena Morozova tells the story of how Go went from a few enthusiastic Gophers to the most popular language for microservices at Uber. Learn where they failed, and how that led they to solutions that they think are pretty darn neat!
