@@ -1,8 +1,6 @@
 ![Go links by rmelo logo](https://github.com/rmelo/go-links/blob/main/go-links-by-rmelo.jpg "Go links by rmelo")
 
-
-# go-links
-This repository contains some useful Go links 
+This repository contains some useful links that helped me to understand  the ideas behind the Go language, and as long I read more article and get good links, I will put here as well. I hope it can help you too, so, enjoy it!
 
 ## Basic Links
 
