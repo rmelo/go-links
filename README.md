@@ -4,12 +4,13 @@ This repository contains some useful links that helped me to understand the idea
 
 ## Summary
 
-1. [Links](#articles)
+1. [Start](#start)
+1. [Articles](#articles)
 2. [Libs & Frameworks](#libs--frameworks)
 
 
 
-## Getting Started (#links)
+## Start
 
 - [https://golang.org](https://golang.org) - The official download page
 
@@ -29,12 +30,11 @@ This repository contains some useful links that helped me to understand the idea
 
 - [Aprenda Go: Context](https://www.youtube.com/watch?v=PhTtrrsUH8c&ab_channel=AprendaGo) - This is another good channel in **(Portuguese)** which helps us to learning Golang by hands on. This chapter is about Context.
 
+#### Concurrency
+- [GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) - In this Youtube video, Kavya Joshi explains how the Go Scheduler works in details.
 
 #### Architecture / Design
 - [How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM&ab_channel=GopherAcademy) - Elena Morozova tells the story of how Go went from a few enthusiastic Gophers to the most popular language for microservices at Uber. Learn where they failed, and how that led they to solutions that they think are pretty darn neat!
-
-#### Concurrency
-- [GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) - In this Youtube video, Kavya Joshi explains how the Go Scheduler works in details.
 
 ### Other links
 
