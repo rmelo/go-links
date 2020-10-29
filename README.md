@@ -42,6 +42,10 @@ This repository contains some useful links that helped me to understand the idea
 
 - [Github - Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries, and software
 
+# Books
+
+- [Mastering Distributed Tracing](https://www.amazon.com/Mastering-Distributed-Tracing-performance-microservices-ebook/dp/B07MBNGF7Q) - A good book describing Jaeger a distributed tracing tool made with Go
+
 # Libs & Frameworks
 
 #### Dependency Injection
