@@ -46,6 +46,8 @@ This repository contains some useful links that helped me to understand the idea
 
 - [Mastering Distributed Tracing](https://www.amazon.com/Mastering-Distributed-Tracing-performance-microservices-ebook/dp/B07MBNGF7Q) - A good book describing Jaeger a distributed tracing tool made with Go
 
+- [12 Factor Application with Docker and Go](https://leanpub.com/12fa-docker-golang) - Explain how to implement apps in Go, using [12 Factors](https://12factor.net/)
+
 # Libs & Frameworks
 
 #### Dependency Injection
@@ -54,4 +56,5 @@ This repository contains some useful links that helped me to understand the idea
 
 #### API
 - [Gorilla Mux](https://github.com/gorilla/mux) - Famous framework to build APIs
+- [Validator](https://github.com/go-playground/validator) - To validate structs or just values
 
